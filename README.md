@@ -1,2 +1,2 @@
 # animated-octo-tribble
-bloxstrap
+custom bloxstrap icon for the studio update
